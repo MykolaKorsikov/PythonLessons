@@ -1,10 +1,10 @@
-# # Example 1 (PZ_3)
-# print("\nExample 1 (multiplication)")
-# number = int(input("Enter number from 1 to 9: "))
-#
-# for i in range(1, 11):
-#     result = number * i
-#     print(number, "*", i, "=", result)
+# Example 1 (PZ_3)
+print("\nExample 1 (multiplication)")
+number = int(input("Enter number from 1 to 9: "))
+
+for i in range(1, 11):
+    result = number * i
+    print(number, "*", i, "=", result)
 
 # Example 2 (PZ_3)
 print("\nExample 2 (currency exchange)")
